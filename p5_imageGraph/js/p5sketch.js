@@ -187,7 +187,7 @@ function setup() {
             fill(0);
             text("Time (minutes)", 600, height -20);
             noFill();
-
+            
         }
         pSensorData = sensor; //saves current data to compare with next data
     endShape(); //line graph ends here
